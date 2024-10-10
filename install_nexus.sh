@@ -13,6 +13,8 @@ echo "
              ||     ||
 "
 
+sleep 5
+
 echo "❤️ Updating and upgrading the system..."
 sudo apt update && sudo apt upgrade -y
 
